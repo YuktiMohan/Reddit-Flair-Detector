@@ -1,2 +1,0 @@
-# Part 1: Reddit Data Collection
-#### Since I had not worked with wescrpping before, therefore I started exploring more about webscrapping and how it is done. I read a few blogs which I have listed below [1-6]. Among these, I implemented  
